@@ -1,6 +1,6 @@
 # What Did I Learned From Games
 
-## [learn.unity\Junior Programming Pathway\Unit 1\prototype1 & challenge 1](https://github.com/Ozlem-goksun/learn.unity_Prototype1_Road)
+## [learn.unity\Junior Programmer Pathway\Unit 1\prototype1 & challenge 1](https://github.com/Ozlem-goksun/learn.unity_Prototype1_Road)
 
 #### 🕹️ verticalInput = Input.GetAxis("Vertical");
 
