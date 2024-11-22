@@ -20,3 +20,17 @@
 
 ## 🕹️ void LateUpdate() >>>>> for example ----- //To make camera's move much smooth.
 
+# :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## [learn.unity\Junior Programmer Pathway\Unit 4\prototype4 & challenge 4](https://github.com/Ozlem-goksun/learn.unity_Prototype4)
+
+#### 🕹️ IEnumerator / StartCoroutine / yield return >>>>>>>>> COUNTDOWN
+
+#### 🕹️ // Vector3 awayFromPlayer = collision.gameObject.transform.position - transform.position;
+
+#### 🕹️ FOCAL POINT
+
+#### 🕹️ Follow the player >>>>>> For the ENEMY
+
+#### 🕹️ Rotate Camera
+
