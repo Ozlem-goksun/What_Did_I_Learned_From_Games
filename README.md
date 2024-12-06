@@ -22,7 +22,7 @@
 
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## [learn.unity\Junior Programmer Pathway\Unit 4\prototype4 & challenge 4](https://github.com/Ozlem-goksun/learn.unity_Prototype4)
+## [learn.unity\Junior Programmer Pathway\Unit 2\prototype2 & challenge 2](https://github.com/Ozlem-goksun/learn.unity_Prototype2_Forest)
 
 #### 🕹️ OnTriggerEnter
 
@@ -36,7 +36,7 @@
 
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## [learn.unity\Junior Programmer Pathway\Unit 2\prototype2 & challenge 2](https://github.com/Ozlem-goksun/learn.unity_Prototype2_Forest)
+## [learn.unity\Junior Programmer Pathway\Unit 4\prototype4 & challenge 4](https://github.com/Ozlem-goksun/learn.unity_Prototype4)
 
 #### 🕹️ IEnumerator / StartCoroutine / yield return >>>>>>>>> COUNTDOWN
 
