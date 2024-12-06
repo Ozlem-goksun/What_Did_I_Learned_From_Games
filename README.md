@@ -24,6 +24,20 @@
 
 ## [learn.unity\Junior Programmer Pathway\Unit 4\prototype4 & challenge 4](https://github.com/Ozlem-goksun/learn.unity_Prototype4)
 
+#### 🕹️ OnTriggerEnter
+
+#### 🕹️ Destroy(gameObject);
+
+#### 🕹️ Adding boundary
+
+#### 🕹️ Instantiate & InvokeRepeating methods
+
+#### 🕹️ SpawnRandomObject
+
+# :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## [learn.unity\Junior Programmer Pathway\Unit 2\prototype2 & challenge 2](https://github.com/Ozlem-goksun/learn.unity_Prototype2_Forest)
+
 #### 🕹️ IEnumerator / StartCoroutine / yield return >>>>>>>>> COUNTDOWN
 
 #### 🕹️ // Vector3 awayFromPlayer = collision.gameObject.transform.position - transform.position;
@@ -33,4 +47,6 @@
 #### 🕹️ Follow the player >>>>>> For the ENEMY
 
 #### 🕹️ Rotate Camera
+
+
 
