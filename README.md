@@ -36,6 +36,20 @@
 
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## [learn.unity\Junior Programmer Pathway\Unit 3\prototype3 & challenge 3](https://github.com/Ozlem-goksun/learn.unity_Prototype3)
+
+#### 🕹️ 
+
+#### 🕹️ 
+
+#### 🕹️
+
+#### 🕹️ 
+
+#### 🕹️ 
+
+# :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## [learn.unity\Junior Programmer Pathway\Unit 4\prototype4 & challenge 4](https://github.com/Ozlem-goksun/learn.unity_Prototype4)
 
 #### 🕹️ IEnumerator / StartCoroutine / yield return >>>>>>>>> COUNTDOWN
