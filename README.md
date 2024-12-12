@@ -66,9 +66,9 @@
 
 ## [3D Survival Game Prototype](https://github.com/Ozlem-goksun/3d_SurvivalGame)
 
-#### 🕹️ Look Around with mouse curser
+#### 🕹️ Look Around with mouse curser >>>>>>>>>> part 1
 
-#### 🕹️ 
+#### 🕹️ Working with Terrain >>>>>>>> part 2
 
 #### 🕹️ 
 
